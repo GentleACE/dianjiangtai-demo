@@ -1,0 +1,13 @@
+group,task_id,injection,status,team,repairs,calls,tokens,latency_ms,inject_auto_detected,trace
+C,task-001,,FINALIZED,planner|researcher|reviewer,0,9,23402,160640,,runs\C-task-001-1793334937.jsonl
+C,task-002,,FINALIZED,researcher|planner,0,6,15059,89760,,runs\C-task-002-1793335139.jsonl
+C,task-003,,FINALIZED,planner|researcher|reviewer,0,9,19851,161420,,runs\C-task-003-1793335231.jsonl
+C,task-004,,FINALIZED,planner|reviewer,0,6,20020,163659,,runs\C-task-004-1793339737.jsonl
+C,task-005,,FINALIZED,researcher|planner,0,6,14965,105920,,runs\C-task-005-1793335511.jsonl
+C,task-006,,FINALIZED,researcher|reviewer,0,6,13198,80010,,runs\C-task-006-1793335622.jsonl
+C,task-007,,FINALIZED,researcher|reviewer,0,6,8715,104259,,runs\C-task-007-1793335704.jsonl
+C,task-008,,FINALIZED,researcher|reviewer,0,6,9205,85500,,runs\C-task-008-1793335810.jsonl
+C,task-009,,FINALIZED,reviewer|researcher,0,6,10527,85530,,runs\C-task-009-1793335899.jsonl
+C,task-010,,FINALIZED,planner|reviewer,0,6,14541,100460,,runs\C-task-010-1793339905.jsonl
+C,task-011,,FINALIZED,planner|reviewer,0,6,14037,142390,,runs\C-task-011-1793340009.jsonl
+C,task-012,,FINALIZED,planner|researcher|reviewer,0,9,24105,129070,,runs\C-task-012-1793336186.jsonl

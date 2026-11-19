@@ -1,0 +1,13 @@
+group,task_id,injection,status,team,repairs,calls,tokens,latency_ms,inject_auto_detected,trace
+A,task-001,,DELIVERED_UNGOVERNED,baseline,0,1,3777,18720,,runs\A-task-001-1793340216.jsonl
+A,task-002,,DELIVERED_UNGOVERNED,baseline,0,1,5530,31920,,runs\A-task-002-1793340235.jsonl
+A,task-003,,DELIVERED_UNGOVERNED,baseline,0,1,4776,19200,,runs\A-task-003-1793340268.jsonl
+A,task-004,,DELIVERED_UNGOVERNED,baseline,0,1,8587,56240,,runs\A-task-004-1793340287.jsonl
+A,task-005,,DELIVERED_UNGOVERNED,baseline,0,1,4463,18890,,runs\A-task-005-1793340344.jsonl
+A,task-006,,DELIVERED_UNGOVERNED,baseline,0,1,3722,18220,,runs\A-task-006-1793340364.jsonl
+A,task-007,,DELIVERED_UNGOVERNED,baseline,0,1,3789,24390,,runs\A-task-007-1793340383.jsonl
+A,task-008,,DELIVERED_UNGOVERNED,baseline,0,1,3979,17040,,runs\A-task-008-1793340407.jsonl
+A,task-009,,DELIVERED_UNGOVERNED,baseline,0,1,6180,29560,,runs\A-task-009-1793340425.jsonl
+A,task-010,,DELIVERED_UNGOVERNED,baseline,0,1,3896,21920,,runs\A-task-010-1793340456.jsonl
+A,task-011,,DELIVERED_UNGOVERNED,baseline,0,1,6251,24330,,runs\A-task-011-1793340479.jsonl
+A,task-012,,DELIVERED_UNGOVERNED,baseline,0,1,5030,55790,,runs\A-task-012-1793340504.jsonl
